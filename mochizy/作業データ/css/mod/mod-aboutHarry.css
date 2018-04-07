@@ -1,0 +1,153 @@
+@charset "utf-8";
+
+.mod-aboutHarry {
+    background-color: #d1dae0;
+    padding: 72px 0;
+}
+.mod-aboutHarry h2 {
+    text-align: center;
+    font-size: 30px;
+    line-height: 32px;
+    margin-bottom: 25px;
+}
+.mod-aboutHarry h2 span{
+    display: block;
+    font-size: 18px;
+}
+.mod-aboutHarry .aboutText {
+    text-align: center;
+    font-size: 25px;
+    line-height: 1.7;
+    font-weight: bold;
+    margin-bottom: 50px;
+}
+.mod-aboutHarry .aboutText span {
+    margin-top: 20px;
+    display:block;
+    font-size: 15px;
+}
+.mod-aboutHarry .outline {
+}
+.mod-aboutHarry .outline .outlineCont {
+margin: 0 auto;
+width: 700px;
+  overflow: hidden;
+  padding-bottom: 30px;
+}
+.mod-aboutHarry .outline .outlineCont img{
+  width: 350px;
+}
+.mod-aboutHarry .outline .outlineCont .rightCont {
+  float: right;
+  width: 335px;
+  margin: 0 0 0 15px;
+  border-top: 2px solid #000;
+  line-height: 1.5;
+}
+.mod-aboutHarry .outline .outlineCont .rightCont h3 {
+font-size: 20px;
+padding-bottom: 10px;
+}
+.mod-aboutHarry .outline .outlineCont .rightCont .more {
+    display: table-cell;
+    vertical-align: middle;
+    height: 50px;
+    width: 165px;
+    color: #664733;
+    border: 1px solid #664733;
+    background-color: #664733;
+    border-radius: 5px;
+    color: white;
+    text-decoration: none;
+    text-align: center;
+}
+.mod-aboutHarry .outline .outlineCont .rightCont .more:hover {
+    background-color: #000;
+    color: #fff;
+}
+.mod-aboutHarry .outline .outlineCont .rightCont .button {
+    padding-top: 10px;
+    float: right;
+}
+
+.mod-aboutHarry .outline .outlineCont.type2 {
+}
+.mod-aboutHarry .outline .outlineCont.type2 img{
+  float: right;
+}
+.mod-aboutHarry .outline .outlineCont.type2 .rightCont {
+  margin: 0 15px 0 0;
+}
+
+
+/*
+
+.TextColumnA {
+  float:left;
+  width:360px;
+}
+.ImageColumnA {
+  float:left;
+  width:360px;
+  text-align:center;
+  margin-left:auto;
+  margin-right:auto;
+}
+
+.ImageColumnA img{
+  width:200px;
+}
+
+.TextColumnB {
+  float:right;
+  width:360px;
+}
+.ImageColumnB {
+  float:right;
+  width:360px;
+  text-align:center;
+  margin-left:auto;
+  margin-right:auto;
+
+}
+
+.ImageColumnB img{
+  width:200px;
+}
+
+.EndColumn {
+  clear:both;
+}
+
+@media screen and (max-width: 760px) {
+   .Container {
+    width:95%;
+  }
+
+  .TextColumnA {
+    float:none;
+    width:100%;
+  }
+  .ImageColumnA {
+    float:none;
+    width:100%;
+    text-align:center;
+    margin-left:auto;
+    margin-right:auto;
+  }
+  .ImageColumnA img{
+    width:80%;
+  }
+  .TextColumnB {
+    width:100%;
+  }
+  .ImageColumnB {
+    width:100%;
+    text-align:center;
+    margin-left:auto;
+    margin-right:auto;
+  } 
+  .ImageColumnB img{
+    width:80%;
+  }
+}*/
